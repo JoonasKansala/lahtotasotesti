@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Demo_AddDeliveryTime>  //modulin nimi
+            <active>true</active>   //magentossa on heti alkujaan enabloitu
+            <codePool>local</codePool>  //kertoo magentolle mistä ottaa modulin toiminnot
+            <version>0.0.1</version>    //tärkeä mysql4 tiedoston määrityksessä
+        </Demo_AddDeliveryTime>
+    </modules>
+</config>

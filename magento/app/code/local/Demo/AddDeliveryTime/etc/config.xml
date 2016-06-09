@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Demo_AddDeliveryTime>
+            <version>0.0.1</version>
+            <title>Delivery Time</title>
+        </Demo_AddDeliveryTime>
+    </modules>
+    <global>
+        <resources>
+            <deliverytime_setup>
+                <setup>
+                    <module>Demo_AddDeliveryTime</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </deliverytime_setup>
+            <deliverytime_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </deliverytime_write>
+        </resources>
+    </global>
+    <adminhtml>
+        <fieldsets>
+            <delivery_time>
+                <create>1</create>
+                <update>1</update>
+            </delivery_time>
+        </fieldsets>
+    </adminhtml>
+</config>
