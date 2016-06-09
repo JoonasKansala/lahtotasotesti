@@ -7,7 +7,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <PhpUnitSettings load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="$PROJECT_DIR$/../../Library/bin/phpunit.phar" />
+      <PhpUnitSettings load_method="PHPUNIT_PHAR" bootstrap_file_path="$PROJECT_DIR$/dev/tests/functional/bootstrap.php" configuration_file_path="$PROJECT_DIR$/dev/tests/functional/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/lib/Varien/Autoload.php" phpunit_phar_path="$PROJECT_DIR$/../../Library/bin/phpunit.phar" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </project>

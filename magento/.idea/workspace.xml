@@ -22,73 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo_All.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/etc/modules/Demo_All.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql4-install-0.0.1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php">
+      <file leaf-file-name="mysql4-install-1.0.0.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/sql/testdeliverytime_setup/mysql4-install-1.0.0.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.833333">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetDefaultTime.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/etc/modules/SetDefaultTime.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Demo/SetDefaultTime/etc/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setdefaulttime.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Demo/SetDefaultTime/Model/setdefaulttime.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34285715">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-              <folding>
-                <element signature="e#6#93#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/etc/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -97,7 +45,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="25.625">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1455733675000" expanded="true" signature="1035:1081" placeholder="..." />
@@ -108,6 +56,26 @@
                 <marker date="1455733675000" expanded="true" signature="1258:1318" placeholder="..." />
                 <marker date="1455733675000" expanded="true" signature="1327:1499" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="versioncheck.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/versioncheck.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_All.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/etc/modules/Test_All.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,12 +112,19 @@
         <option value="$PROJECT_DIR$/app/code/local/AddDeliveryTime2/DeliveryTime/sql/mysql4-install-1.0.0.php" />
         <option value="$PROJECT_DIR$/app/code/local/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/code/local/sql/deliverytime_setup/mysql4-install-0.0.1.php" />
-        <option value="$PROJECT_DIR$/app/etc/modules/Demo_All.xml" />
         <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/data/catalog_setup/data-install-1.6.0.0.php" />
         <option value="$PROJECT_DIR$/../../bin/php/php5.6.10/conf/php.ini" />
-        <option value="$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php" />
         <option value="$PROJECT_DIR$/app/etc/modules/SetDefaultTime.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Demo/SetDefaultTime/Model/setdefaulttime.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Demo_All.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.2.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Test_All.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/sql/deliverytime_setup/mysql4-install-1.0.0.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/sql/testdeliverytime_setup/mysql4-install-1.0.0.php" />
+        <option value="$PROJECT_DIR$/versioncheck.php" />
       </list>
     </option>
   </component>
@@ -165,8 +140,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="37" />
+    <option name="x" value="20" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="669" />
   </component>
@@ -195,8 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,79 +282,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
+              <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SetDefaultTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SetDefaultTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddDeliveryTime" />
+              <option name="myItemId" value="AddDeliveryAttr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -389,7 +294,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="deliverytime_setup" />
+              <option name="myItemId" value="testdeliverytime_setup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,37 +320,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Demo" />
+              <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AddDeliveryTime" />
+              <option name="myItemId" value="AddDeliveryAttr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="etc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,14 +352,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.phpunit" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Library/bin/phpunit.phar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/tests/functional/bootstrap.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -486,24 +371,23 @@
       <recent name="$PROJECT_DIR$/app/code/local/AddDeliveryTime2" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.magento">
+  <component name="RunManager" selected="PHP Script.versioncheck.php">
     <configuration default="false" name="magento" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner directory="$PROJECT_DIR$" />
       <method />
     </configuration>
-    <configuration default="false" name="code" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/app/code" />
-      <method />
-    </configuration>
-    <configuration default="false" name="AddDeliveryAttr" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/app/code/local/DemoSite/Observer/sql/AddDeliveryAttr" />
-      <method />
-    </configuration>
-    <configuration default="false" name="install-1.6.0.0.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/code/local/DemoSite/Observer/sql/AddDeliveryAttr/install-1.6.0.0.php">
-      <method />
-    </configuration>
     <configuration default="false" name="app" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/app" scope="XML" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner directory="$PROJECT_DIR$/app" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="versioncheck.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/versioncheck.php">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -536,18 +420,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="PHPUnit.magento" />
-      <item index="1" class="java.lang.String" itemvalue="PHPUnit.code" />
-      <item index="2" class="java.lang.String" itemvalue="PHPUnit.AddDeliveryAttr" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.install-1.6.0.0.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHPUnit.app" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.app" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.app (1)" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.versioncheck.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHPUnit.magento" />
-        <item index="1" class="java.lang.String" itemvalue="PHPUnit.app" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.install-1.6.0.0.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHPUnit.AddDeliveryAttr" />
-        <item index="4" class="java.lang.String" itemvalue="PHPUnit.code" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.versioncheck.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.magento" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.app (1)" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.app" />
       </list>
     </recent_temporary>
   </component>
@@ -565,58 +449,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="app - 2016.06.09 at 09h 41m 37s.xml">
+    <history-entry file="app - 2016.06.09 at 14h 12m 18s.xml">
       <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="magento - 2016.06.08 at 15h 19m 38s.xml">
+    <history-entry file="app - 2016.06.09 at 14h 20m 48s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app - 2016.06.09 at 14h 20m 50s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app - 2016.06.09 at 14h 28m 18s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app - 2016.06.09 at 14h 38m 26s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app - 2016.06.09 at 14h 40m 59s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app - 2016.06.09 at 14h 41m 37s.xml">
+      <configuration name="app" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="app_(1) - 2016.06.09 at 14h 42m 27s.xml">
+      <configuration name="app (1)" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="magento - 2016.06.09 at 14h 52m 20s.xml">
       <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="magento - 2016.06.08 at 15h 56m 48s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 09h 58m 07s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 09h 58m 32s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 10h 00m 03s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 10h 11m 12s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 10h 18m 55s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 10h 32m 55s.xml">
-      <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="magento - 2016.06.09 at 10h 34m 01s.xml">
+    <history-entry file="magento - 2016.06.09 at 15h 12m 16s.xml">
       <configuration name="magento" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="37" width="1260" height="669" extended-state="0" />
+    <frame x="20" y="23" width="1260" height="669" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.619403" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.59452736" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.38059703" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.40547264" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -633,18 +517,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php</url>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Demo_All.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/sql/testdeliverytime_setup/mysql4-install-1.0.0.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -652,10 +538,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Test_All.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -676,19 +570,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Demo_All.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1455733675000" expanded="true" signature="1035:1081" placeholder="..." />
+            <marker date="1455733675000" expanded="true" signature="1082:1505" placeholder="..." />
+            <marker date="1455733675000" expanded="false" signature="1096:1144" placeholder="..." />
+            <marker date="1455733675000" expanded="true" signature="1145:1324" placeholder="..." />
+            <marker date="1455733675000" expanded="false" signature="1158:1257" placeholder="..." />
+            <marker date="1455733675000" expanded="true" signature="1258:1318" placeholder="..." />
+            <marker date="1455733675000" expanded="true" signature="1327:1499" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -902,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.983957">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,13 +803,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Model/Resource/Setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-32.87143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Test_All.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Test/AddDeliveryAttr/sql/testdeliverytime_setup/mysql4-install-1.0.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="25.625">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1455733675000" expanded="true" signature="1035:1081" placeholder="..." />
@@ -930,61 +861,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/versioncheck.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.3">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/AddDeliveryTime/sql/deliverytime_setup/mysql4-install-0.0.1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.833333">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Demo_All.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/SetDefaultTime.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/SetDefaultTime/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Demo/SetDefaultTime/Model/setdefaulttime.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34285715">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding>
-            <element signature="e#6#93#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
